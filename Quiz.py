@@ -35,7 +35,7 @@ def START(questions):
         print(f"Quiz completed! You scored {scored}% ")
 
 
-# question  object
+# set of question which all are display after one by one
 quiz_questions = {
     "1) What is the capital city of Australia?": "Canberra",
     "2) Which river is the longest in South America?": "The amazon river",
